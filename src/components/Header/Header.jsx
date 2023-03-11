@@ -29,10 +29,12 @@ const Header = () => {
     >
       <div
         className={`flexCenter innerWidth ${css.container}`}>
+        <a href="#">
         <div className={css.name}>
         <BsFillPersonFill size={"26px"} className={css.nameIcon} />
           Roshan
         </div>
+        </a>
 
 
         <ul
