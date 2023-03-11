@@ -22,7 +22,7 @@ const Testimonials = () => {
 
 
          <div className={`flexCenter ${css.heading}`}>
-         <span className="primaryText">My Project Testimonials</span>
+         <span className="primaryText">My Projects Testimonials</span>
            <p style={{ marginTop: "2rem" }} className={css.review}>
            I had showed my projects to different individuals and recorded their reviews.
            </p>

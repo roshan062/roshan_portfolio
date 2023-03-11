@@ -22,7 +22,7 @@ const Hero = () => {
           <motion.span className="secondaryText" variants={fadeIn("left", "tween", 0.4, 1)}>
             I design simple
             <br />
-            but beautiful webistes.
+            but beautiful websites.
           </motion.span>
         </div>
 
